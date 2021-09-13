@@ -36,7 +36,7 @@ function draw() {
   
   if(sea.x < 0){
    
-    sea.x = sea.x /2
+    sea.x = sea.width /8;
   }
 
  
